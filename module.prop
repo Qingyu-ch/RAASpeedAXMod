@@ -1,0 +1,8 @@
+id=Restore_Android_animation_speed
+name=还原安卓动画速率
+version=v1
+versionCode=1
+author=@墨羽
+description=自动还原安卓系统动画，很多性能优化会改安卓动画，其实根本没有，本人做一个简单的模块一键还原动画变成1.0x
+axeronPlugin=12000
+banner=image.png
